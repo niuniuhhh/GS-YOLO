@@ -1,5 +1,6 @@
 %run train.py
 Configure parameters such as batch size and pre-trained weights according to Table 1 in the paper.
+The file of yolov5s.pt is the pre-train weight for GS-YOLO training.
 
 The two main contributions of this work are:
 
